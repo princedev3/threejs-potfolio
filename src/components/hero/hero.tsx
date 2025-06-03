@@ -59,7 +59,8 @@ const Hero = () => {
             </p>
 
             <Button
-              text="See My Work"
+
+              text="Download CV"
               className="md:w-80 md:h-16 w-full h-12"
               id="counter"
             />
