@@ -1,7 +1,7 @@
 const Button = ({ text, className, id }:{text:string,className:string,id:string}) => {
   return (
     <a
-     href="/Imene-Oghenefejiro-Prince-CV.pdf"
+     href="/Imene-Oghenefejiro-Prince-CV-Resume.pdf"
     download="IMENE-PRINCE-CV.pdf"
       className={`${className ?? ""} cta-wrapper`}
     >
